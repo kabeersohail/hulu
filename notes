@@ -4,3 +4,4 @@ next.js
 tailwind css
 lazy loading 
 mobile first
+environment variables(private variables , they won't be pushed to github)
